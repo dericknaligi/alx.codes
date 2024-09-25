@@ -1,3 +1,5 @@
-str_er = int((input("age")))
-str_er =+ 1
-print(str_er)
+str_er = int((input(" your age")))
+if str_er > 10:
+    print("minor")
+else:
+    print("adult")
