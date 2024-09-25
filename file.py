@@ -1,5 +1,5 @@
 str_er = int((input(" your age")))
 if str_er > 10:
-    print("minor")
+    print("Minor")
 else:
-    print("adult")
+    print("Adult")
